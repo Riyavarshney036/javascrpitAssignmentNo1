@@ -4,3 +4,10 @@
 & If bqtwqqn 50 and 70 thqn a C gradp
 & Bqlow 50 thqn an F grade**/
 
+marks=89;
+if(marks<=100 & marks>=90){
+    console.log("grade'A' ")
+}
+else if(marks<90 & marks>70){
+    console.log("Grade 'B'")
+}
